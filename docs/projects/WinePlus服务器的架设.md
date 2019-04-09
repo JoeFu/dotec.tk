@@ -1,3 +1,9 @@
+---
+sidebar: auto
+title: Blogging Like a Hacker
+lang: cn-Zh
+---
+
 
 ## AWS创建数据库服务器
 
@@ -100,5 +106,4 @@ systemctl start php-fpm
 setenforce 0
 打开Linux 防火墙
 ```
-
 

@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-title: Blogging Like a Hacker
+title: WinePlus服务器的架设
 lang: cn-Zh
 ---
 

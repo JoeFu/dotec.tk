@@ -1,17 +1,18 @@
 ---
 home: true
 heroImage: 
-actionText: My Tech details
-actionLink: /blog
+actionText: Wine Plus Project
+actionLink: /wineplus/
 features:
 - title: Home
   details:
-- title: Blog
-  details: Knowledge I learn from now on
-- title: Project
-  details: This is recorder all the steps for the Project
+- title: Wine Plus
+  details: 
+- title: Orchid Wine
+  details: 
+
 footer: Copyright © 2019 Joe Fu 
 ---
 
 
-## README
+## Wine Plus
